@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/manish-kumar-rajak-08574619a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-rajak-08574619a" height="30" width="40" /></a>
 <a href="https://fb.com/manish.rajak1k99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish.rajak1k99" height="30" width="40" /></a>
 <a href="https://instagram.com/official_visionx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_visionx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dj vision-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dj vision-x" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/FLstudioProjectfiles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dj vision-x" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
