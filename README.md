@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=visionxstudio&label=Profile%20views&color=0e75b6&style=flat" alt="visionxstudio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visionxstudio" alt="visionxstudio" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visionxstudio" alt="visionxstudio"&row=2&column=3 /></a> </p>
 
 - 🔭 I’m currently working on **Anmup Online**
 
