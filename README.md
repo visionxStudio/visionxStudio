@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Stock Price Prediction App**
 
-- 💬 Ask me about **Mobile app Development, MEARN**
+- 💬 Ask me about **Mobile app Development, MERN**
 
 - 📫 How to reach me **manish.rajak2055@gmail.com**
 
