@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visionxstudio"&column=-1 alt="visionxstudio" /></a> </p>
 
-- 🔭 I’m currently working on **Wynk Music Player**
+- 🔭 I’m currently working on **MusicTube Music Player**
 
 - 👯 I’m looking to collaborate on **Stock Price Prediction App**
 
