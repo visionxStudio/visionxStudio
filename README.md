@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Mobile app Development, MERN**
 
-- 📫 How to reach me **manish.rajak2055@gmail.com**
+- 📫 How to reach me **mtech.audioservice@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
